@@ -1,4 +1,4 @@
-# Run some basic codes in first NestJS Application
+# Styling on base of given color-scheme and specifications
 
 You can use below link to know how to create this app
 
